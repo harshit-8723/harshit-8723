@@ -48,8 +48,8 @@
 
 ## Featured Projects
 
-- 🔍 [vulnera_scan](https://github.com/harshit-8723/vulnera_scan) — A vulnerability scanner tool  
-- 🎓 [edu-ai](https://github.com/harshit-8723/edu-ai) — AI-powered education helper
+- [vulnera_scan](https://github.com/harshit-8723/vulnera_scan) — A vulnerability scanner tool  
+- [edu-ai](https://github.com/harshit-8723/edu-ai) — AI-powered education helper
 
 ---
 
